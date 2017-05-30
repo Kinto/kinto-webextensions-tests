@@ -1,0 +1,3 @@
+# Ignore the .pyc files that get created
+    *.pyc
+    __pycache__

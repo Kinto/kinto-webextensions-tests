@@ -5,23 +5,12 @@ system.
 
 ## General Configuration
 
-Python 3.6.0 or greater is required.
-
-It's highly recommended to use [Virtualenv](https://virtualenv.pypa.io/en/latest/) to create an isolated Python
-environment to run your tests in.
-
-From this directory:
-
-1. `virtualenv . -p /path/to/python`
-2. `./bin/activate`
-3. `./bin/pip install -r requirements.txt`
-
-This will create your virtual environment, activate it, and then install the required Python package dependencies.
+* Python 3.6.0
+* [Tox](https://tox.readthedocs.io/en/latest/)
 
 ## Running Tests
 
-To run our test suite, use the following command:
+To run the test suite, do the following:
 
-`py.test --env=<environment> config-tests/`
-
-where `<environment>` is `stage` or `prod`
+* set an environment variable called TEST_ENV to be one of `stage` or `prod`
+* Run the tests using the command `tox`
