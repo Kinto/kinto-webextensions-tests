@@ -338,11 +338,11 @@
         },
         "pyramid": {
             "hashes": [
-                "sha256:7da99f42fbc31cb36ae5297091734cab4e27d222da806dd370f3466ea8c6c422",
-                "sha256:840f4bbd5994609340de35079da0d1dd94f79942e27818d5d8566f8009fb0b36"
+                "sha256:51bf64647345237c00d2fe558935e0e4938c156e29f17e203457fd8e1d757dc7",
+                "sha256:d80ccb8cfa550139b50801591d4ca8a5575334adb493c402fce2312f55d07d66"
             ],
             "index": "pypi",
-            "version": "==1.9.1"
+            "version": "==1.10.4"
         },
         "pyrsistent": {
             "hashes": [
@@ -389,13 +389,6 @@
                 "sha256:f81025eddd0327c7d4cfe9b62cf33190e1e736cc6e97502b3ec425f574b3e7a8"
             ],
             "version": "==5.1.2"
-        },
-        "repoze.lru": {
-            "hashes": [
-                "sha256:0429a75e19380e4ed50c0694e26ac8819b4ea7851ee1fc7583c8572db80aff77",
-                "sha256:f77bf0e1096ea445beadd35f3479c5cff2aa1efe604a133e67150bc8630a62ea"
-            ],
-            "version": "==0.7"
         },
         "requests": {
             "hashes": [
