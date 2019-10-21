@@ -324,10 +324,10 @@
         },
         "pyfxa": {
             "hashes": [
-                "sha256:78f7cc76d9d22f17cdb5212ecb7c946aaeac43c9c9a4e6f141e2e232d1fe7290"
+                "sha256:f47f4285629fa6c033c79adc3fb90926c0818a42cfddb04d32818547362f1627"
             ],
             "index": "pypi",
-            "version": "==0.4.0"
+            "version": "==0.7.3"
         },
         "pyparsing": {
             "hashes": [
