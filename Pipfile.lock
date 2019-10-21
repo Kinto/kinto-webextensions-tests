@@ -181,11 +181,11 @@
         },
         "kinto-http": {
             "hashes": [
-                "sha256:4a47748cfc4afd22317ff6b8580ec1a0be6367aecc780936530569503eabd4df",
-                "sha256:c724aecebb53c6d7d5e3e5a499b926761125f869fd0ab921004b12a88714aa32"
+                "sha256:9b5695bb28a3c31531dbe19fb9ea08e66e86cf039b76662261626fc3dfd0be4d",
+                "sha256:d1c000788ad811bb496b8880cf99b4c35c565add5dc8f1180d6ef08772a390b8"
             ],
             "index": "pypi",
-            "version": "==9.0.1"
+            "version": "==10.6.0"
         },
         "markupsafe": {
             "hashes": [
