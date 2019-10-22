@@ -7,8 +7,7 @@ name = "pypi"
 
 [packages]
 
-pytest-testrail = "*"
-pyfxa = "*"
+PyFxA = "*"
 kinto-http = "*"
 pyramid = "*"
 smwogger = "*"
